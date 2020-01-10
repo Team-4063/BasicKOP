@@ -2,7 +2,7 @@
 
 This is a basic example code for a Kit of Parts drivetrain.  Feel free to edit or use at your discretion!
 
-This code (a) drives forward for 2 seconds during autonomous and (b) creates a single joystick arcade drive using an Xbox controller.
+This code (a) drives forward for 2 seconds during autonomous and (b) creates a single joystick arcade drive driven by an Xbox controller.
 
 Helpful links:  
 Official WPILib Examples
